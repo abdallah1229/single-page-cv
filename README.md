@@ -6,4 +6,4 @@ A responsive CV built with HTML and CSS, showcasing my skills in cryptography, w
 Open `index.html` in any browser.
 
 ## Live Demo
-[Click here to view my CV](https://abdallah1229.github.io/single-page-cv)
+[Click here to view my CV](https://github.com/abdallah1229/single-page-cv)
